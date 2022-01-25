@@ -147,3 +147,10 @@ hr {
   border-top: 7px dotted #e6e6e6;
   width: 4%;
 }
+
+.attribute {
+  font-size: 0.75em;
+  text-align: right;
+  position: absolute;
+  right: 20px;
+}
